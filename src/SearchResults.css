@@ -1,0 +1,46 @@
+/* Search Results Grid */
+.search-results {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 2rem;
+}
+
+/* No Results Message */
+.no-results {
+  text-align: center;
+  padding: 3rem;
+  background: #f8f9fa;
+  border-radius: 8px;
+  color: #6c757d;
+}
+
+.no-results p:first-child {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  color: #2c3e50;
+}
+
+.no-results p:last-child {
+  font-size: 1rem;
+}
+
+/* Responsive Design - Tablet */
+@media (max-width: 1024px) {
+  .search-results {
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.5rem;
+  }
+}
+
+/* Responsive Design - Mobile */
+@media (max-width: 768px) {
+  .search-results {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .no-results {
+    padding: 2rem 1rem;
+  }
+}

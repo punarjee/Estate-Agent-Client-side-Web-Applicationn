@@ -1,0 +1,189 @@
+{
+  "properties": [
+    {
+      "id": "prop1",
+      "type": "House",
+      "bedrooms": 3,
+      "price": 750000,
+      "tenure": "Freehold",
+      "description": "Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior.",
+      "location": "Petts Wood Road, Petts Wood, Orpington BR5",
+      "postcode": "BR5",
+      "picture": "images/prop1pic1small.jpg",
+      "images": [
+        "images/prop1pic1.jpg",
+        "images/prop1pic2.jpg",
+        "images/prop1pic3.jpg",
+        "images/prop1pic4.jpg",
+        "images/prop1pic5.jpg",
+        "images/prop1pic6.jpg"
+      ],
+      "floorplan": "images/prop1floorplan.jpg",
+      "url": "properties/prop1.html",
+      "added": {
+        "month": "October",
+        "day": 12,
+        "year": 2022
+      }
+    },
+    {
+      "id": "prop2",
+      "type": "Flat",
+      "bedrooms": 2,
+      "price": 399995,
+      "tenure": "Freehold",
+      "description": "Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms. This apartment being only five years old, is still under a 10 year building guarantee.",
+      "location": "Crofton Road Orpington BR6",
+      "postcode": "BR6",
+      "picture": "images/prop2pic1small.jpg",
+      "images": [
+        "images/prop2pic1.jpg",
+        "images/prop2pic2.jpg",
+        "images/prop2pic3.jpg",
+        "images/prop2pic4.jpg",
+        "images/prop2pic5.jpg",
+        "images/prop2pic6.jpg"
+      ],
+      "floorplan": "images/prop2floorplan.jpg",
+      "url": "properties/prop2.html",
+      "added": {
+        "month": "September",
+        "day": 14,
+        "year": 2022
+      }
+    },
+    {
+      "id": "prop3",
+      "type": "House",
+      "bedrooms": 5,
+      "price": 1250000,
+      "tenure": "Freehold",
+      "description": "Stunning five bedroom detached Victorian home in a prestigious location. This beautiful property features high ceilings, original features, and modern amenities throughout. The ground floor comprises an entrance hall, living room, dining room, study, and a magnificent kitchen/family room with bi-fold doors leading to a landscaped garden. Upstairs offers five generous bedrooms, master with en-suite, and a luxury family bathroom. Off-street parking for three cars.",
+      "location": "Chislehurst Road, Chislehurst BR7",
+      "postcode": "BR7",
+      "picture": "images/prop3pic1small.jpg",
+      "images": [
+        "images/prop3pic1.jpg",
+        "images/prop3pic2.jpg",
+        "images/prop3pic3.jpg",
+        "images/prop3pic4.jpg",
+        "images/prop3pic5.jpg",
+        "images/prop3pic6.jpg",
+        "images/prop3pic7.jpg",
+        "images/prop3pic8.jpg"
+      ],
+      "floorplan": "images/prop3floorplan.jpg",
+      "url": "properties/prop3.html",
+      "added": {
+        "month": "November",
+        "day": 5,
+        "year": 2023
+      }
+    },
+    {
+      "id": "prop4",
+      "type": "Flat",
+      "bedrooms": 1,
+      "price": 275000,
+      "tenure": "Leasehold",
+      "description": "Modern one bedroom apartment in a sought-after development. Perfect for first-time buyers or investors. The apartment features an open-plan kitchen/living area, spacious bedroom with built-in wardrobes, and a contemporary bathroom. Benefits include secure entry system, allocated parking, and communal gardens. Close to local amenities and transport links.",
+      "location": "High Street, Bromley BR1",
+      "postcode": "BR1",
+      "picture": "images/prop4pic1small.jpg",
+      "images": [
+        "images/prop4pic1.jpg",
+        "images/prop4pic2.jpg",
+        "images/prop4pic3.jpg",
+        "images/prop4pic4.jpg",
+        "images/prop4pic5.jpg",
+        "images/prop4pic6.jpg"
+      ],
+      "floorplan": "images/prop4floorplan.jpg",
+      "url": "properties/prop4.html",
+      "added": {
+        "month": "January",
+        "day": 20,
+        "year": 2024
+      }
+    },
+    {
+      "id": "prop5",
+      "type": "House",
+      "bedrooms": 4,
+      "price": 895000,
+      "tenure": "Freehold",
+      "description": "Beautifully presented four bedroom family home offering spacious accommodation arranged over three floors. The property comprises entrance hall, cloakroom, two reception rooms, and a stunning kitchen/dining room extension overlooking the garden. First floor features three bedrooms and family bathroom, with master bedroom and en-suite on the second floor. South-facing rear garden, driveway parking for two cars.",
+      "location": "Station Approach, West Wickham BR4",
+      "postcode": "BR4",
+      "picture": "images/prop5pic1small.jpg",
+      "images": [
+        "images/prop5pic1.jpg",
+        "images/prop5pic2.jpg",
+        "images/prop5pic3.jpg",
+        "images/prop5pic4.jpg",
+        "images/prop5pic5.jpg",
+        "images/prop5pic6.jpg",
+        "images/prop5pic7.jpg"
+      ],
+      "floorplan": "images/prop5floorplan.jpg",
+      "url": "properties/prop5.html",
+      "added": {
+        "month": "March",
+        "day": 15,
+        "year": 2024
+      }
+    },
+    {
+      "id": "prop6",
+      "type": "Flat",
+      "bedrooms": 3,
+      "price": 525000,
+      "tenure": "Leasehold",
+      "description": "Exceptionally spacious three bedroom apartment located on the second floor of this popular development. The accommodation comprises a bright entrance hall, large lounge/dining room, fitted kitchen, three good-sized bedrooms, en-suite to master, and family bathroom. Additional benefits include a balcony, lift access, residents parking, and well-maintained communal areas. Chain free.",
+      "location": "Kentish Way, Bickley BR2",
+      "postcode": "BR2",
+      "picture": "images/prop6pic1small.jpg",
+      "images": [
+        "images/prop6pic1.jpg",
+        "images/prop6pic2.jpg",
+        "images/prop6pic3.jpg",
+        "images/prop6pic4.jpg",
+        "images/prop6pic5.jpg",
+        "images/prop6pic6.jpg"
+      ],
+      "floorplan": "images/prop6floorplan.jpg",
+      "url": "properties/prop6.html",
+      "added": {
+        "month": "June",
+        "day": 8,
+        "year": 2024
+      }
+    },
+    {
+      "id": "prop7",
+      "type": "House",
+      "bedrooms": 2,
+      "price": 450000,
+      "tenure": "Freehold",
+      "description": "Charming two bedroom terraced cottage with character features throughout. This delightful home offers a cozy living room with feature fireplace, separate dining room, and a well-equipped kitchen. Upstairs comprises two comfortable bedrooms and a modern bathroom. The property benefits from a private rear garden, ideal for entertaining. Walking distance to local shops and station.",
+      "location": "Oak Lane, Shortlands BR3",
+      "postcode": "BR3",
+      "picture": "images/prop7pic1small.jpg",
+      "images": [
+        "images/prop7pic1.jpg",
+        "images/prop7pic2.jpg",
+        "images/prop7pic3.jpg",
+        "images/prop7pic4.jpg",
+        "images/prop7pic5.jpg",
+        "images/prop7pic6.jpg"
+      ],
+      "floorplan": "images/prop7floorplan.jpg",
+      "url": "properties/prop7.html",
+      "added": {
+        "month": "August",
+        "day": 25,
+        "year": 2024
+      }
+    }
+  ]
+}
