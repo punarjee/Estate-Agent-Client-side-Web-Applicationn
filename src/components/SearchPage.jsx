@@ -32,7 +32,7 @@ function SearchPage({
     setSearchCriteria(criteria);
     const results = filterProperties(properties, criteria);
     setSearchResults(results);
-    
+    setHasSearched(true);
   };
 
   // Handle property drop on favourites area
